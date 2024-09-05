@@ -42,8 +42,8 @@
 
 <p>
   <div class="myban">
-    <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture1.jpg" width="470" height="270"/>
-    <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture2.jpg" width="470" height="270"/>
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture1.jpg" width="450" height="300"/>
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture2.jpg" width="450" height="300"/>
   </div>
   <h3 align="center">图2</h3>
 </p>
@@ -77,8 +77,8 @@
 <p>
   <div aling="center">
    <div class="myban">
-     <img src="https://github.com/seven-one-nine/-/blob/main/picture/team%20building1.jpg" width="470" height="270"/>
-     <img src="https://github.com/seven-one-nine/-/blob/main/picture/team%20building2.jpg" width="470" height="270"/>
+     <img src="https://github.com/seven-one-nine/-/blob/main/picture/team%20building1.jpg" width="450" height="300"/>
+     <img src="https://github.com/seven-one-nine/-/blob/main/picture/team%20building2.jpg" width="450" height="300"/>
    </div>
   </div>
   <h3 align="center">图5</h3>
