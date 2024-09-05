@@ -41,10 +41,8 @@
 #### 网络系列专题讲座
 #### 网协问茶
 #### 技能培训
-![image](https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png)
 <p align="center">
-    <img src="picture/skills training.png" alt="Skills training" width="400" height="300">
-  </a>
+    ![image](https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png)
 
   <h3 align="center">图5</h3>
 </p>
