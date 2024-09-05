@@ -39,9 +39,15 @@
 
 ### 活动开展
 #### 网络系列专题讲座
-
 #### 网协问茶
 #### 技能培训
+<p align="center">
+  <a href="https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png">
+    <img src="images/skills training.png" alt="skills training" width="180" height="180">
+  </a>
+
+  <h3 align="center">图5</h3>
+</p>
 #### “破冰”活动
 #### 毕业晚会
 ### 版权说明
