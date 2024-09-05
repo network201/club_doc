@@ -39,14 +39,20 @@
 
 ### 活动开展
 #### 网络系列专题讲座
+
+
+
 #### 网协问茶
-#### 技能培训
+#### 技能 培训
 
 <p>
-  .<div align="center">
-    <img src="https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png" width="300" height="450" />
+  <div align="center">
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png" width="600" height="450" />
   </div>
+  <h3 align="center">图5</h3>
 </p>
+
+在“milk-v”开发板的初探活动中，开发板的易用性使得初学者可以轻松上手，学生们可以按照俱乐部提供的实验手册进行体验，通过俱乐部成员的耐心教导，学生们都完成了体验。此次活动让参与的同学能够亲身体验和学习关于开发板的使用和内核编译，加深对操作系统的理解。
 
 #### “破冰”活动
 #### 毕业晚会
