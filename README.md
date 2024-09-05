@@ -43,7 +43,7 @@
 #### 技能培训
 ![image](https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png)
 <p align="center">
-  <a href="[https://github.com/shaojintian/Best_README_template/](https://github.com/seven-one-nine/-/blob/main/picture/)">
+  <a href="https://github.com/shaojintian/Best_README_template/">
     <img src="picture/skills training.png" alt="Skills training" width="400" height="300">
   </a>
 
