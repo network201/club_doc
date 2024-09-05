@@ -79,8 +79,8 @@
 <p>
   <div aling="center">
    <div class="myban">
-     <img src="" width="500" height="450"/>
-     <img src="" width="500" height="450"/>
+     <img src="https://github.com/seven-one-nine/-/blob/main/picture/team%20building1.jpg" width="500" height="450"/>
+     <img src="https://github.com/seven-one-nine/-/blob/main/picture/team%20building2.jpg" width="500" height="450"/>
    </div>
   </div>
   <h3 align="center">图5</h3>
