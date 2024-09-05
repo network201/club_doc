@@ -42,7 +42,11 @@
 #### 网协问茶
 #### 技能培训
 
-<center><img src="/picture/skills training.png" alt="skills training"></center>
+<p>
+  .<div align="center">
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png" width="300" height="450" />
+  </div>
+</p>
 
 #### “破冰”活动
 #### 毕业晚会
