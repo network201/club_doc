@@ -42,7 +42,7 @@
 #### 网协问茶
 #### 技能培训
 <p align="center">
-  <a href="https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png">
+  <a href="https://github.com/seven-one-nine/-/blob/main/picture/">
     <img src="images/skills training.png" alt="skills training" width="180" height="180">
   </a>
 
