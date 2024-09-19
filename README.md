@@ -5,9 +5,11 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<p align="center">
-    <img src="https://github.com/seven-one-nine/-/blob/main/picture/wangxie.png" width="600" height="450" />
-  <h3 align="center">图1</h3>
+<p>
+  <div class="myban">
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/wangxie.jpg" width="405" height="300"/>
+  </div>
+  <h3 align="center">图2</h3>
 </p>
 
 社团宗旨：基于网工、面向学院、服务温大
