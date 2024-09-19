@@ -6,10 +6,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/wangxie.png" width="600" height="450" />
   <h3 align="center">图1</h3>
 </p>
 
