@@ -9,6 +9,13 @@
   <div class="myban" align="center">
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/wangxie.jpg" width="1000" height="500"/>
   </div>
+  <h3 align="center">图1</h3>
+</p>
+
+<p>
+  <div class="myban" align="center">
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/prize.jpg" width="800" height="700"/>
+  </div>
   <h3 align="center">图2</h3>
 </p>
 
@@ -45,7 +52,7 @@
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture1.jpg" width="405" height="300"/>
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture2.jpg" width="405" height="300"/>
   </div>
-  <h3 align="center">图2</h3>
+  <h3 align="center">图3</h3>
 </p>
 
 网络实践与创新俱乐部还负责许多的优秀校友，以及相关行业的各位大拿的分享讲座，例如我们曾邀请深信服的资深工程师为网络工程专业的学生带来《网络安全及职业新认识》主题的讲座，为现场同学进行答疑解惑，指明了未来方向等：还有邀请到过去的优秀校友沈健学长介绍自己的各类经历以及感谢，为同学们提供参考。
@@ -56,7 +63,7 @@
   <div align="center">
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/tea%20talk2.png" width="600" height="450" />
   </div>
-  <h3 align="center">图3</h3>
+  <h3 align="center">图4</h3>
 </p>
 
 在考研就业问茶讲座中，学生们可以了解到考研的最新政策、备考技巧、面试经验等方面的信息，同时也可以了解就业市场的最新动态、求职技巧以及职业规划等方面的内容。通过这类活动，学生们可以更加清晰地认识自己，明确自己的目标和方向，为未来的发展打下坚实的基础。
@@ -67,7 +74,7 @@
   <div align="center">
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/%20skills%20training.png" width="600" height="450" />
   </div>
-  <h3 align="center">图4</h3>
+  <h3 align="center">图5</h3>
 </p>
 
 在“milk-v”开发板的初探活动中，开发板的易用性使得初学者可以轻松上手，学生们可以按照俱乐部提供的实验手册进行体验，通过俱乐部成员的耐心教导，学生们都完成了体验。此次活动让参与的同学能够亲身体验和学习关于开发板的使用和内核编译，加深对操作系统的理解。
@@ -81,7 +88,7 @@
      <img src="https://github.com/seven-one-nine/-/blob/main/picture/team%20building2.jpg" width="405" height="300"/>
    </div>
   </div>
-  <h3 align="center">图5</h3>
+  <h3 align="center">图6</h3>
 </p>
 
 在网协的招新活动结束后，我们组织与新干事们的团建聚餐，以便大家能够更加深入地了解彼此。通过这次聚餐，我们不仅增进了感情，还为未来的合作奠定了坚实的基础。
@@ -93,7 +100,7 @@
   <div align="center">
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/graduate.jpg" width="700" height="550" />
   </div>
-  <h3 align="center">图6</h3>
+  <h3 align="center">图7</h3>
 </p>
 
 在2024年上半年，俱乐部协助举办了20届网络工程专业同学的毕业晚会，为毕业的同学准备毕业册等精致礼品。在大罗山脚，毕业生们相互道别，俱乐部服务同学们，配合老师们为他们的大学生活画上完美的句号。
