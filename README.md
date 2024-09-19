@@ -14,7 +14,7 @@
 
 <p>
   <div class="myban" align="center">
-    <img src="https://github.com/seven-one-nine/-/blob/main/picture/prize.jpg" width="800" height="700"/>
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/prize.jpg" width="800" height="600"/>
   </div>
   <h3 align="center">图2</h3>
 </p>
