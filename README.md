@@ -6,8 +6,8 @@
 <br />
 
 <p>
-  <div class="myban">
-    <img src="https://github.com/seven-one-nine/-/blob/main/picture/wangxie.jpg" width="405" height="300"/>
+  <div class="myban" align="center">
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/wangxie.jpg" width="1000" height="666"/>
   </div>
   <h3 align="center">图2</h3>
 </p>
