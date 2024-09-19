@@ -7,7 +7,7 @@
 
 <p>
   <div class="myban" align="center">
-    <img src="https://github.com/seven-one-nine/-/blob/main/picture/wangxie.jpg" width="1000" height="550"/>
+    <img src="https://github.com/seven-one-nine/-/blob/main/picture/wangxie.jpg" width="1000" height="500"/>
   </div>
   <h3 align="center">图2</h3>
 </p>
