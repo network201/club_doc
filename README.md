@@ -77,7 +77,7 @@
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/tea%20talk2.png" width="405" height="300" />
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/tea%20talk1.jpg" width="405" height="300"/>
   </div>
-  <h3 text-align="justify"> &emsp;&emsp; 左图 张彬和周明轩学长分享  右图 沈晗学长分享 &emsp;&emsp; </h3>
+  <h3 align="left"> &emsp;&emsp;&emsp;&emsp;&emsp; 左图 张彬和周明轩学长分享 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 右图 沈晗学长分享 </h3>
 </p>
 
 茶谈会在一个巧妙地时机为那些依然茫然于未来，又或是不知如何去追寻目标的学子们提供宝贵的意见，那些来自老师的，优秀学长的他们的意见是为这些同学上的最实用的一课。
