@@ -16,7 +16,7 @@
   <div class="myban" align="center">
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/prize.jpg" width="800" height="600"/>
   </div>
-  <h3 align="center">图2 奖状柜</h3>
+  <h3 align="center">图2 荣誉证书柜</h3>
 </p>
 
 社团宗旨：基于网工、面向学院、服务温大
@@ -54,7 +54,7 @@
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture1.jpg" width="405" height="300"/>
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture2.jpg" width="405" height="300"/>
   </div>
-  <h3 align="center">左图 对话优秀校友沈健 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 右图 网络安全及职业新认识 </h3>
+  <h3 align="center">左图 对话优秀校友沈健 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 右图 网络安全及职业新认识 </h3>
 </p>
 
 <p>
@@ -62,7 +62,7 @@
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture3.jpg" width="405" height="300"/>
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture4.jpg" width="405" height="300"/>
   </div>
-  <h3 align="center">左图 5G组网和优化的基本问题       右图 人工智能技术应用与发展 </h3>
+  <h3 align="center">左图 5G组网和优化的基本问题 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 右图 人工智能技术应用与发展 </h3>
 </p>
 
 通过这一系列专题讲座的展开，让同学们了解了许多新兴技术，给同学们带来了许多有益的启示和新的思考，学习到了面试之中的常见提问与不同岗位之间的能力需求的差异，对未来的职业规划有了较为清晰的计划，相信也让同学们有了更加明确的未来目标。
@@ -77,7 +77,7 @@
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/tea%20talk2.png" width="405" height="300" />
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/tea%20talk1.jpg" width="405" height="300"/>
   </div>
-  <h3 text-align="center">左图 张彬和周明轩学长分享    右图 沈晗学长分享 </h3>
+  <h3 text-align="center">左图 张彬和周明轩学长分享 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 右图 沈晗学长分享 </h3>
 </p>
 
 茶谈会在一个巧妙地时机为那些依然茫然于未来，又或是不知如何去追寻目标的学子们提供宝贵的意见，那些来自老师的，优秀学长的他们的意见是为这些同学上的最实用的一课。
@@ -108,7 +108,7 @@
      <img src="https://github.com/seven-one-nine/-/blob/main/picture/team%20building2.jpg" width="405" height="300"/>
    </div>
   </div>
-  <h3 align="center">左图 团建聚餐     右图 冬至晚会</h3>
+  <h3 align="center">左图 团建聚餐 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 右图 冬至晚会</h3>
 </p>
 
 网络创新与实践俱乐部定期举办丰富多彩的活动。在这些活动中不断拉近彼此的距离。随着时间的推移，成员们在工作中的配合也日益默契，形成了良好的俱乐部氛围。这种紧密的合作关系不仅提升了工作的效率，也为每位成员的成长与发展创造了更好的条件。
