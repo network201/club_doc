@@ -54,7 +54,7 @@
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture1.jpg" width="405" height="300"/>
     <img src="https://github.com/seven-one-nine/-/blob/main/picture/lecture2.jpg" width="405" height="300"/>
   </div>
-  <h3 align="center"><pre>左图 对话优秀校友沈健          右图 网络安全及职业新认识 </pre> </h3>
+  <h3 align="center">左图 对话优秀校友沈健 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 右图 网络安全及职业新认识 </h3>
 </p>
 
 <p>
