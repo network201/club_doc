@@ -44,8 +44,10 @@
 - 社团内部成员的考核与评优评选
 - 负责社团资金管理
 
-#### 部门事项
-[注意事项](./document/considerations.md)
+#### 注意事项
+[社团内部](./document/considerations.md)
+
+[校社管对接](./document/%E5%AE%A1%E6%89%B9%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.pdf)
 
 ### 活动开展
 #### 网络系列专题讲座
