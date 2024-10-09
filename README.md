@@ -45,7 +45,7 @@
 - 负责社团资金管理
 
 #### 注意事项
-[社团内部](./document/considerations.md)
+[社团内部](https://github.com/network201/Club_Resource_Center)
 
 [校社管对接](./document/%E5%AE%A1%E6%89%B9%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.pdf)
 
